@@ -1,6 +1,7 @@
 # xgrid_demo
 
 A new Flutter project.
+I HAVE USED PROVIDER AND SHARED PREFERENCES FOR DARK/LIGHT THEMES.
 
 ## Getting Started
 
